@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/storage/LaborLib/!svn/ver/84/rfm12/tags/rfm12-1.1/src/include
+END
+rfm12_extra.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/storage/LaborLib/!svn/ver/74/rfm12/tags/rfm12-1.1/src/include/rfm12_extra.h
+END
+rfm12_ctrl.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/storage/LaborLib/!svn/ver/74/rfm12/tags/rfm12-1.1/src/include/rfm12_ctrl.h
+END
+rfm12_spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/storage/LaborLib/!svn/ver/84/rfm12/tags/rfm12-1.1/src/include/rfm12_spi.c
+END
+rfm12_core.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/storage/LaborLib/!svn/ver/74/rfm12/tags/rfm12-1.1/src/include/rfm12_core.h
+END
+rfm12_extra.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/storage/LaborLib/!svn/ver/74/rfm12/tags/rfm12-1.1/src/include/rfm12_extra.c
+END
+rfm12_hw.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/storage/LaborLib/!svn/ver/74/rfm12/tags/rfm12-1.1/src/include/rfm12_hw.h
+END
+rfm12_ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/storage/LaborLib/!svn/ver/74/rfm12/tags/rfm12-1.1/src/include/rfm12_ctrl.c
+END

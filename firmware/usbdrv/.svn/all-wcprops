@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv
+END
+usbdrvasm20.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrvasm20.inc
+END
+usbdrvasm12.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrvasm12.inc
+END
+usbdrvasm15.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrvasm15.inc
+END
+usbdrvasm.asm
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrvasm.asm
+END
+usbdrvasm16.inc
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrvasm16.inc
+END
+usbdrv.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrv.c
+END
+oddebug.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/oddebug.c
+END
+usbdrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrv.h
+END
+CommercialLicense.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/CommercialLicense.txt
+END
+oddebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/oddebug.h
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/License.txt
+END
+asmcommon.inc
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/asmcommon.inc
+END
+USBID-License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/USBID-License.txt
+END
+iarcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/iarcompat.h
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/Changelog.txt
+END
+usbdrvasm.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrvasm.S
+END
+usbconfig-prototype.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbconfig-prototype.h
+END
+usbdrvasm165.inc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/usbdrvasm165.inc
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/4034/microcontroller/src-atmel/rfm12/rfm12usb/trunk/firmware/usbdrv/Readme.txt
+END
